@@ -10,15 +10,15 @@ Mini Guia .Net
 - Classe:
 - Metodo:
 - Objeto:
-##### 4 Pilares:
-- Abstração: É uma tentativa de aproximar a programação da nossa vida real. É o que modela a regra de negócio.
-  - Importante:
-    - Identidade: toda classe tem uma identidade identificável, ex: Classe Pessoa;
-    - Propriedades: Quais são as propriedades importantes para que eu possa abstrair, ex:nome, idade, etc.
-    - Métodos: Verbos de ação, ex: Falar
-- Encapsulamento: É uma boa prática de esconder a complexidade e proteger o código das classes, e utilizando apenas os métodos.
-- Herança: Serve para reutilização de código, por meio de generalização.
-- Polimorfismo: É quando invocamos um método para duas classes que herdam de uma classe anterior, de mesma assinatura porém com a execução diferente em cada classe herdada.
+##### 4 Pillars:
+- Abstraction: attempt to bring programming closer to our real life. It is what models the business rule.
+  - Important:
+    - Identity: every class has an identifiable identity, eg.: Class Person;
+    - Properties: what are the important properties for me, to abstract eg.: name, age, etc;
+    - Methods: are the verbs that denote action. Eg.: Talk , walk;
+- Encapsulation: It is a good practice to hide the complexity and protect the code of the classes, and using only the methods.    
+- Inheritance: it suits for code reuse, through generalization.
+- Polymorphism: It is when we invoke a method for two classes that inherit from a previous class, with the same signature but with different execution in each inherited class.
 
 ## O que é uma API:
 

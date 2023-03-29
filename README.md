@@ -7,9 +7,11 @@ Mini Guide .Net
 ## What is C#?:
 - Is an object-oriented language, also created by Microsoft.
 ### OO - Object orientation:
-- Class:
-- Method:
-- Object:
+Object-oriented programming(OOP) is a computer programming model that organizes software design around  data, or objects, rather than functions and logic. An object can be defined as a data field that has exclusive attributes and behavior 
+- Class: are user-defined data types that act as the template for individual objects, attributes, and methods.
+- Method: determine the behavior of objects in a class and are analogous to functions or procedures in structured programming. Sending messages (calling methods) can change the state of an object. Is used reusabillity or keeping functionality encapsulated inside one object at a time.
+- Object: Objects can correspond to real world objects or an abstract entity. Is a computational element that represents, in the solution domain, some entity (abstract or concrete) from the domain of interest of the problem under analysis.
+
 ##### 4 Pillars:
 - Abstraction: attempt to bring programming closer to our real life. It is what models the business rule.
   - Important:
@@ -39,3 +41,6 @@ Podemos associá-los ao CRUD e ao SQL.
 
 ## Sources:
 - https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
+- https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP
+- https://www.dca.fee.unicamp.br/cursos/PooJava/objetos/conceito.html#:~:text=Um%20objeto%20%C3%A9%20um%20elemento,potencialmente%20representado%20como%20um%20objeto.
+- 

@@ -1,15 +1,15 @@
-# Mini-Guia-.Net com C#
-Mini Guia .Net
+# Mini Guide .Net with C#
+Mini Guide .Net 
 
-## O que é o .Net:
-- É uma plataforma opensource de desenvolvimento criada pela Microsoft, voltado para linguagens como C#, VB.NET e F#.
+## What is .Net?:
+- Is an open source developer platform, created by Microsoft, for buildind many differents types of applications like C#, VB.NET e F#.
 
-## O que é po C#
-- é uma linguagem orientada a objetos, também criada pela Microsoft.
-### OO - Orientação a Objetos:
-- Classe:
-- Metodo:
-- Objeto:
+## What is C#?:
+- Is an object-oriented language, also created by Microsoft.
+### OO - Object orientation:
+- Class:
+- Method:
+- Object:
 ##### 4 Pillars:
 - Abstraction: attempt to bring programming closer to our real life. It is what models the business rule.
   - Important:
@@ -36,3 +36,6 @@ Podemos associá-los ao CRUD e ao SQL.
 - DELETE: Delete e DELETE
 ### Ferramentas para ser Restfull:
 - Swagger:
+
+## Sources:
+- https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
